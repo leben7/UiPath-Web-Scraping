@@ -2,7 +2,7 @@
   "name": "Web-Scraping-Practice",
   "projectId": "05983f9b-6892-4498-8de7-684b5ab22480",
   "description": "Web Scraping practice",
-  "main": "Main.xaml",
+  "main": "Google-Sheets-Table-Scraping.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.0-preview]",
     "UiPath.Mail.Activities": "[1.20.3]",
@@ -51,6 +51,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "edabbe95-7174-469d-96f9-c3ece027216b",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Google-Sheets-Table-Scraping.xaml",
+      "uniqueId": "8a9dc2b1-7281-4d76-ba23-f00468bd6fff",
       "input": [],
       "output": []
     }
